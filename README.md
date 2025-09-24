@@ -41,7 +41,7 @@ iphone-landing-page/
 
 Clone or download this repository:
 
-git clone https://github.com/your-username/iphone-landing-page.git
+git clone  https://github.com/subhasribalagani-arch/Iphone-product-landing
 
 
 Navigate to the project folder:
