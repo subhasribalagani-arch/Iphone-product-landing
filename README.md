@@ -52,9 +52,9 @@ cd iphone-landing-page
 Open index.html in your browser.
 
 📸 Screenshots
-💻 Desktop Preview
 
-📱 Mobile Preview
+
+https://github.com/subhasribalagani-arch/Iphone-product-landing/blob/83eb621c9c82bec169ca065490fcf210c1fd262a/Screenshot_24-9-2025_194421_.jpeg
 
 🎯 Future Improvements
 
